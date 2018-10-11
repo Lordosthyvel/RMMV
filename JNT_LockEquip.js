@@ -8,6 +8,7 @@
 @url -
 
 -------------------------------------------------------------------------------
+@plugindesc 1.0 - Allows lock of all equipment slots by plugin command
 @help 
 
 This plugin allows you to lock or unlock all equipment slots on a 
